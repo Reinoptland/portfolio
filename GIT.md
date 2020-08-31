@@ -43,3 +43,10 @@
 - We want feedback / testing
 - Why would I rather have find the bug: my user, or myself / my colleague
 - The master branch contains our `production` version
+
+### We will use branches
+
+- How should we us branches
+- Master: Contains the current working version (bug free & tested)
+- Development branch: Where we combine our work (can be broken sometimes)
+- Feature branch: contains isolated new features
